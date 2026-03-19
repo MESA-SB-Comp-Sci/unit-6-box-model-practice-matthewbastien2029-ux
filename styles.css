@@ -2,3 +2,11 @@
     box-sizing: border-box;
 }
 
+h2 {
+    background-color :rgb(98, 75, 212);
+    width: 200px;
+    height: 200px;
+    padding: 50px;
+    border: 30px dotted rgb(116, 160, 204);
+    margin: 100px;
+}
